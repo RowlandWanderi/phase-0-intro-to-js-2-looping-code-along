@@ -15,7 +15,7 @@ function writeCards( names,message){
 }console.log(`${writeCards(names,message)}`);
 
 function countDown(number) {
-    for (let i = number; i >= 0; i--) {
-      console.log(i);
-    }
+  for (let i = number; i >= 0; i--) {
+    console.log(i);
   }
+}
